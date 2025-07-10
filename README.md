@@ -1,7 +1,7 @@
 # Password Server with Custom Hash Table (C++)
-# Created by Gerard (Gerry) Kramer for COP4530 (Data Structures II) at FSU
-# Submitted December 2024
-# Grade received: 100
+### Created by Gerard (Gerry) Kramer for COP4530 (Data Structures II) at FSU
+### Submitted December 2024
+### Grade received: 100
 
 ## Overview
 
