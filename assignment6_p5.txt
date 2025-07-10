@@ -1,0 +1,13 @@
+****************************************************
+* Gerard Kramer                                    *
+* COP4530                                          *
+* Assignment 5 / Assignment 6 - assignment6_p5.txt *
+****************************************************
+
+1) The worst-case time-complexity for rehash() is O(n), where n is the number of elements.
+The table is traversed and each element is rehashed and reinserted into a new and larger table, 
+which are all constant-time operations.
+
+2) The worst-case time-complexity for removeUser(const string &k) is O(n), where n is the 
+number of elements. In the worst case, the function involves searching through the table,
+which are all constant-time operations.
