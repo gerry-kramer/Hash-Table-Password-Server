@@ -36,16 +36,16 @@ make                      # builds proj5.x from Makefile
 
 ## Complexity Analysis
 
-As documented in assignment6_p5.txt:
-- Worst-case time complexity for both rehash() and removeUser(const string &k) is O(n)
+As documented in `assignment6_p5.txt`:
+- Worst-case time complexity for both `rehash()` and `removeUser(const string &k)` is O(n)
 
 ## File Overview
 
- - hashtable.h / hashtable.hpp: HashTable class template declaration and implementation
- - passserver.h / passserver.cpp: PassServer adaptor class
- - proj5.cpp: Main driver (uses provided Menu() interface)
- - assignment6_p5.txt: Complexity analysis
- - makefile: Build instructions
+ - `hashtable.h` / `hashtable.hpp`: HashTable class template declaration and implementation
+ - `passserver.h` / `passserver.cpp`: PassServer adaptor class
+ - `proj5.cpp`: Main driver (uses provided `Menu()` interface)
+ - `assignment6_p5.txt`: Complexity analysis
+ - `makefile`: Build instructions
 
 ## Note on Repository
 
