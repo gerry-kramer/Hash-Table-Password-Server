@@ -45,7 +45,7 @@ As documented in `assignment6_p5.txt`:
  - `passserver.h` / `passserver.cpp`: PassServer adaptor class
  - `proj5.cpp`: Main driver (uses provided `Menu()` interface)
  - `assignment6_p5.txt`: Complexity analysis
- - `makefile`: Build instructions
+ - `Makefile`: Build instructions
 
 ## Note on Repository
 
